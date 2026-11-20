@@ -31,6 +31,7 @@ HVAC Design | Cooling Load Analysis | Duct Design | Energy Efficiency
 10. [Tools and Standards](#tools-and-standards)
 11. [Team](#team)
 12. [License](#license)
+13. [Author](#author)
 
 ---
 
@@ -229,3 +230,11 @@ Department of Mechanical Engineering, NED University of Engineering & Technology
 ## License
 
 Released for academic and educational reference. See [`LICENSE`](LICENSE) for terms. Building data belongs to the surveyed facility and is used here for coursework only.
+
+## Author
+
+Muhammad Yasin | Mechanical Engineering Student
+
+- GitHub: [https://github.com/Muhammad-Yasin157](https://github.com/Muhammad-Yasin157)
+- LinkedIn: [https://www.linkedin.com/in/muhammadyasin3648](https://www.linkedin.com/in/muhammadyasin3648)
+- Email: [yasinbangash119@gmail.com](mailto:yasinbangash119@gmail.com)
